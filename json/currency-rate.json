@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "currency": {
+            "id": 101,
+            "name": "EUR"
+        },
+        "rate": 1.16
+    },
+    {
+        "id": 1,
+        "currency": {
+            "id": 102,
+            "name": "RUR"
+        },
+        "rate": 0.02
+    },
+    {
+        "id": 2,
+        "currency": {
+            "id": 103,
+            "name": "BYN"
+        },
+        "rate": 0.5
+    },
+    {
+        "id": 3,
+        "currency": {
+            "id": 104,
+            "name": "CNY"
+        },
+        "rate": 0.15
+    },
+    {
+        "id": 4,
+        "currency": {
+            "id": 105,
+            "name": "USD"
+        },
+        "rate": 1
+    }
+]

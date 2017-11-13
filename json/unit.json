@@ -1,0 +1,168 @@
+{
+    "id": 1000,
+    "budget": {
+        "value": 130000,
+        "currency": {
+            "id": 101,
+            "name": "EUR"
+        }
+    },
+    "unitOwner": "Thelma Cox",
+    "childUnits": [
+        {
+            "id": 2001,
+            "budget": {
+                "value": 130000000,
+                "currency": {
+                    "id": 102,
+                    "name": "RUR"
+                }
+            },
+            "unitOwner": "Martinez Valencia",
+            "childUnits": [
+                {
+                    "id": 3001,
+                    "budget": {
+                        "value": 75000,
+                        "currency": {
+                            "id": 103,
+                            "name": "BYN"
+                        }
+                    },
+                    "unitOwner": "Saundra Koch",
+                    "childUnits": []
+                },
+                {
+                    "id": 3002,
+                    "budget": {
+                        "value": 756100000,
+                        "currency": {
+                            "id": 104,
+                            "name": "CNY"
+                        }
+                    },
+                    "unitOwner": "Shirley Mitchell",
+                    "childUnits": [
+                        {
+                            "id": 4001,
+                            "budget": null,
+                            "unitOwner": "Emma Mckee",
+                            "childUnits": [
+                                {
+                                    "id": 6001,
+                                    "budget": {
+                                        "value": 380000,
+                                        "currency": {
+                                            "id": 101,
+                                            "name": "EUR"
+                                        }
+                                    },
+                                    "unitOwner": "Natalie Russo",
+                                    "childUnits": [
+                                        {
+                                            "id": 7001,
+                                            "budget": {
+                                                "value": 500000,
+                                                "currency": {
+                                                    "id": 103,
+                                                    "name": "BYN"
+                                                }
+                                            },
+                                            "unitOwner": "Kate Daniel",
+                                            "childUnits": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4002,
+                            "budget": null,
+                            "unitOwner": "Barrett Bruce",
+                            "childUnits": []
+                        },
+                        {
+                            "id": 4003,
+                            "budget": null,
+                            "unitOwner": "Barrera Davenport",
+                            "childUnits": []
+                        },
+                        {
+                            "id": 4004,
+                            "budget": null,
+                            "unitOwner": "Fran Lloyd",
+                            "childUnits": []
+                        }
+                    ]
+                },
+                {
+                    "id": 3003,
+                    "budget": null,
+                    "unitOwner": "Pate Obrien",
+                    "childUnits": []
+                },
+                {
+                    "id": 3004,
+                    "budget": null,
+                    "unitOwner": "Nichole Garrison",
+                    "childUnits": [
+                        {
+                            "id": 5001,
+                            "budget": {
+                                "value": 10000,
+                                "currency": {
+                                    "id": 105,
+                                    "name": "USD"
+                                }
+                            },
+                            "unitOwner": "Joanne Mcdowell",
+                            "childUnits": []
+                        },
+                        {
+                            "id": 5002,
+                            "budget": {
+                                "value": 6000000,
+                                "currency": {
+                                    "id": 104,
+                                    "name": "CNY"
+                                }
+                            },
+                            "unitOwner": "Gina Fernandez",
+                            "childUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2002,
+            "budget": {
+                "value": 9000000,
+                "currency": {
+                    "id": 102,
+                    "name": "RUR"
+                }
+            },
+            "unitOwner": "Joanne Mcdowell",
+            "childUnits": []
+        },
+        {
+            "id": 2003,
+            "budget": {
+                "value": 350000,
+                "currency": {
+                    "id": 105,
+                    "name": "USD"
+                }
+            },
+            "unitOwner": "Gina Fernandez",
+            "childUnits": []
+        },
+        {
+            "id": 2004,
+            "budget": null,
+            "unitOwner": "Josefa Baker",
+            "childUnits": []
+        }
+    ]
+}
